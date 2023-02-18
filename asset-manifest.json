@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/wishlist/static/js/main.b67e84ca.js",
+    "index.html": "/wishlist/index.html",
+    "main.b67e84ca.js.map": "/wishlist/static/js/main.b67e84ca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b67e84ca.js"
+  ]
+}

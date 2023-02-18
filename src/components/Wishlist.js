@@ -16,7 +16,7 @@ function Wishlist() {
 
   return (
     <div>
-      <h1>My Wishlist</h1>
+      <h1>My Wishlist in React!</h1>
       <ul>
         {items.map((item, index) => (
           <li key={index}>
